@@ -1,5 +1,5 @@
 # Project 1- Part 1
-Heather Foster#
+Heather Foster #
 ## "Loading Data" ##
 ### "Data Cleaning" ###
 #### "Exploratory Visuals" ####
